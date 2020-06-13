@@ -98,8 +98,8 @@ def update_correct_characters(word):  # changes the number of correct characters
                     break  # if incorrect stop counting letters(add accuracy checker here)
 
 
-def update_total_char_count():
-    global total_char_count
+def update_total_char_count():  # finds all characters in the prompt and
+    global total_char_count     # adds them to a global char prompt variable
 
     total_char_count += len(prompt[current_word_index])
 
