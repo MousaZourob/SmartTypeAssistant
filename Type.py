@@ -1,6 +1,7 @@
 import random
 import time
 import math
+import string
 from tkinter import *
 import tkinter.font as tkFont
 
@@ -144,7 +145,20 @@ def misspelt_letters(mis_char):
 
     mis_read.close()
 
+def misspelt_words(word): #function that checks if a word is spelt incorrectly 
+    for x in range(0, len(word)):
+        if word[x] != (prompt[current_word_index])[x]:
+            return prompt[current_word_index]
 
+def file_create():
+    file = open("mistypedLetters.txt", "w+")
+    alphabet_string = string.ascii_lowercase
+    alphabet_list = list(alphabet_string)
+
+    for i in range(0, len(alphabet_list)):
+        file.write(str(alphabet_list[i]) + '0\n')
+
+    file.close()
 ######################## backend stuff ####################
 
 t0 = 0
