@@ -1,5 +1,5 @@
 # SmartTouchType
-Smart tool to improve touch typing accuracy and speed. Built using **Python** and **TKinter GUI** for **MLH Same Home Different Hacks 2020 hackathon**
+Smart tool to improve touch typing accuracy and speed. Built using **Python** and **Tkinter GUI** for **MLH Same Home Different Hacks 2020 hackathon**
 <br />
 #### Collaborators: 
 * https://github.com/JunZheng-dev
