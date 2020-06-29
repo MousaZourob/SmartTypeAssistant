@@ -5,7 +5,7 @@ Smart Type Assistant allows users to improve their touch typing skills (such as 
 <br />
 
 ### Demo:
-![Smart_Type_Assistant](https://user-images.githubusercontent.com/66835262/86066844-46b30780-ba41-11ea-9d0f-0f18f4d91558.gif)
+![Smart_Type_Assistant](https://github.com/JunZheng-dev/Smart-Type-Assistant/blob/master/preview/preview.gif?raw=true)
 
 ### Collaborators: 
 * https://github.com/JunZheng-dev
