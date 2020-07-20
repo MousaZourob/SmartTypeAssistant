@@ -10,5 +10,4 @@ Smart Type Assistant allows users to improve their touch typing skills (such as 
 ### Collaborators: 
 * https://github.com/JunZheng-dev
 * https://github.com/ellenwang02
-* https://github.com/MousaZourob
 * https://github.com/ammar-s847
