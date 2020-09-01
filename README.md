@@ -5,6 +5,8 @@ Smart Type Assistant allows users to improve their touch typing skills (such as 
 ### Features:
 * Randomly generated prompts so that user always has fresh and unique propmts to practice
 * Accuracy and WPM trackers that update live based on user performance
+* Window to show user which letters they need to improve on based on performance, as well as prompts tailored for weak letters
+* Ability to filter between small, medium, and long words or a mix of all
 
 ### Devpost: https://devpost.com/software/smart-type-assistant
 
